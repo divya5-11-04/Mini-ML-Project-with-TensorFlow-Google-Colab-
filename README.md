@@ -58,10 +58,10 @@ model.fit(xs, ys, epochs=500)
 Prediction
 
 print(model.predict([10.0]))
-📊 Sample Output
+📊 Output
 After training, the model predicts:
 
-[[31.005917]]
+[[30.999973]]
 Which is very close to the expected output 31 for input 10.
 
 🛠 Skills Demonstrated
